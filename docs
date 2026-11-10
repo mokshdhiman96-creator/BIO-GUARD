@@ -1,1 +1,13 @@
+# Working Principle
 
+BIO-GUARD monitors environmental conditions
+around plants using three sensors.
+
+1. Soil sensor monitors soil moisture.
+2. DHT11 measures temperature and humidity.
+3. LDR detects surrounding light.
+4. Arduino Uno R3 processes sensor readings.
+5. LCD displays the collected information.
+
+The system helps users observe changing
+environmental conditions.
